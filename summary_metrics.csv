@@ -1,0 +1,3 @@
+model,micro_precision
+ER-ANN (paper),0.8280701754385965
+Z-CATNet (proposed),0.9216944801026957
